@@ -1,0 +1,20 @@
+{
+  "name": "wisepen",
+  "description": "du an web",
+  "main": "index.js",
+  "authors": [
+    "Tin Tran"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wisepen/solo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
